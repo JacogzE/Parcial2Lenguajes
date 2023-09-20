@@ -14,19 +14,25 @@ namespace PatientManager.src
             return head;
         }
 
-        public void ReplaceHead(Patient NewHead)
+        private Patient Create(int id, string name, int numberOfSymptoms)
+        {
+            return new Patient(id, name, numberOfSymptoms);
+        }
+
+        private void ReplaceHead(Patient NewHead)
         {
             NewHead.Next = head;
             head = NewHead;
         }
 
-        public void RemoveHead(Patient NewHead)
+        private void RemoveHead(Patient NewHead)
         {
             head = NewHead;
         }
 
-        public void InsertPatient(Patient patient)
+        public void InsertPatient(int id, string name, int numberOfSymptoms)
         {
+            Patient patient = Create(id, name, numberOfSymptoms);
             Patient current = head;
             while(true)
             {

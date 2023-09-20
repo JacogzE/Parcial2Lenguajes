@@ -2,7 +2,7 @@ namespace PatientManager.src
 {
     public class Hospital
     {
-        PatientService patients;
+        private PatientService patients;
         public Hospital()
         {
             patients = new PatientService(null);
@@ -47,9 +47,9 @@ namespace PatientManager.src
             }
         }
 
-        public void RecievePatient(Patient patient)
+        public void RecievePatient(int id, string name, int numberOfSymptoms)
         {
-            patients.InsertPatient(patient);
+            patients.InsertPatient(id, name, numberOfSymptoms);
         }
 
         public void StartShift()
