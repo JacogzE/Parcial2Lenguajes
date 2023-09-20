@@ -1,0 +1,14 @@
+C:\Users\jacob\Documents\c#\Parcial2Lenguajes\PatientManager\bin\Debug\net7.0\PatientManager.exe
+C:\Users\jacob\Documents\c#\Parcial2Lenguajes\PatientManager\bin\Debug\net7.0\PatientManager.deps.json
+C:\Users\jacob\Documents\c#\Parcial2Lenguajes\PatientManager\bin\Debug\net7.0\PatientManager.runtimeconfig.json
+C:\Users\jacob\Documents\c#\Parcial2Lenguajes\PatientManager\bin\Debug\net7.0\PatientManager.dll
+C:\Users\jacob\Documents\c#\Parcial2Lenguajes\PatientManager\bin\Debug\net7.0\PatientManager.pdb
+C:\Users\jacob\Documents\c#\Parcial2Lenguajes\PatientManager\obj\Debug\net7.0\PatientManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\Documents\c#\Parcial2Lenguajes\PatientManager\obj\Debug\net7.0\PatientManager.AssemblyInfoInputs.cache
+C:\Users\jacob\Documents\c#\Parcial2Lenguajes\PatientManager\obj\Debug\net7.0\PatientManager.AssemblyInfo.cs
+C:\Users\jacob\Documents\c#\Parcial2Lenguajes\PatientManager\obj\Debug\net7.0\PatientManager.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Documents\c#\Parcial2Lenguajes\PatientManager\obj\Debug\net7.0\PatientManager.dll
+C:\Users\jacob\Documents\c#\Parcial2Lenguajes\PatientManager\obj\Debug\net7.0\refint\PatientManager.dll
+C:\Users\jacob\Documents\c#\Parcial2Lenguajes\PatientManager\obj\Debug\net7.0\PatientManager.pdb
+C:\Users\jacob\Documents\c#\Parcial2Lenguajes\PatientManager\obj\Debug\net7.0\PatientManager.genruntimeconfig.cache
+C:\Users\jacob\Documents\c#\Parcial2Lenguajes\PatientManager\obj\Debug\net7.0\ref\PatientManager.dll
